@@ -13,6 +13,7 @@
   "license": "MIT",
   "readme": "A bare bones Tessel 2 blinky script.",
   "dependencies": {
+    "os": "^0.1.1",
     "servo-pca9685": "^0.1.3",
     "tessel-av": "^0.15.0"
   }
